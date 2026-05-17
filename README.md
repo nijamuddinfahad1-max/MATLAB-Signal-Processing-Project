@@ -14,4 +14,4 @@ This project demonstrates signal filtering using MATLAB.
 - GitHub
 
 ## Author
-Your Name
+Nijam Uddin Fahad
