@@ -1,2 +1,17 @@
-# MATLAB-Signal-Processing-Project
-A MATLAB project for signal processing and visualization.
+# MATLAB Signal Processing Project
+
+## Objective
+This project demonstrates signal filtering using MATLAB.
+
+## Features
+- Signal generation
+- Noise addition
+- Filtering
+- Visualization
+
+## Tools Used
+- MATLAB
+- GitHub
+
+## Author
+Your Name
